@@ -3,5 +3,6 @@ git test
 
 no git init
 
-2018/1/15	星期一
-星期二
+line1 星期一
+line2 星期二
+
